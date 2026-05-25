@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "141503753479",
+    "firebase_url": "https://charityapp-7f10f-default-rtdb.firebaseio.com",
+    "project_id": "charityapp-7f10f",
+    "storage_bucket": "charityapp-7f10f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141503753479:android:690c8d792f13af405ce9a2",
+        "android_client_info": {
+          "package_name": "com.example.charityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-6dMrG6KeRsWCjpcXkqlFKdZSkiVVdmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
